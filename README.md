@@ -1,4 +1,4 @@
-# Projeto criado a partir do projeto de Matheus Benites - DIO
+# Sistema React criado a partir do projeto de Matheus Benites - DIO
 
 ### Preview
 
