@@ -25,7 +25,7 @@ const Repositories = () => {
           selectedTabPanelClassName="is-selected"
         >
           <S.WrapperTabList>
-            <S.WrapperTab>Repositories</S.WrapperTab>
+            <S.WrapperTab>Repositórios</S.WrapperTab>
             <S.WrapperTab>Starred</S.WrapperTab>
           </S.WrapperTabList>
           <S.WrapperTabPanel>
